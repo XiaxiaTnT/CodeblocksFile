@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1452171477 source:g:\codeblocksÎÄ¼ş\ai2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+

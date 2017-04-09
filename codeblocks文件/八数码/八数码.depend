@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1460023418 source:g:\codeblocksÎÄ¼ş\°ËÊıÂë\main.cpp
+	<iostream>
+	<map>
+	<queue>
+	<algorithm>
+	<string>
+	<stdio.h>
+

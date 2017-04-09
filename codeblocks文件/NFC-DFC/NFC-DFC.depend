@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1446257802 source:g:\codeblocksÎÄ¼þ\nfc-dfc\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<algorithm>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<iomanip>
+	<stack>
+

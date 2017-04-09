@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461026607 source:g:\codeblocksÎÄ¼ş\yrcjs\main.cpp
+	<iostream>
+	<map>
+	<queue>
+	<algorithm>
+	<string>
+	<stdio.h>
+
